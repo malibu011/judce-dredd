@@ -1,4 +1,4 @@
 [info]
-vers=2
-vers_text='2.00'
-delete_iniFiles=true
+last_version=2
+last_version_text='2.00'
+deleteOldIniFiles=true
