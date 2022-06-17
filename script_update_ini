@@ -1,4 +1,5 @@
 [info]
 new_version=2
 new_version_text="1.01"
+new_version_info='1. Исправлены баги\n2. Добавленны новые функции'
 deleteOldIniFiles=false
