@@ -4,6 +4,6 @@ new_version_text='1.01'
 deleteOldIniFiles=false
 [preset]
 revolution_version=1
-legacy_version=1
+legacy_version=2
 classic_version=1
 server02_version=1
