@@ -1,6 +1,6 @@
 [info]
-new_version=2
-new_version_text='1.01'
+new_version=11
+new_version_text='10.01'
 deleteOldIniFiles=false
 [preset]
 revolution_version=1
