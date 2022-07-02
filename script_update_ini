@@ -1,9 +1,9 @@
 [info]
-new_version=11
-new_version_text='10.01'
+new_version=10
+new_version_text='10.00'
 deleteOldIniFiles=false
 [preset]
 revolution_version=1
-legacy_version=2
+legacy_version=1
 classic_version=1
 server02_version=1
