@@ -1,7 +1,7 @@
 [info]
 new_version=10
 new_version_text='10.00'
-update_info=blablabla
+update_info=blablabla\nblablabla
 deleteOldIniFiles=false
 [preset]
 revolution_version=1
