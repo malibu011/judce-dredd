@@ -7,5 +7,5 @@ delete_ini_configuration_files=false
 [preset]
 revolution_version=1
 legacy_version=1
-classic_version=2
+classic_version=1
 server02_version=1
