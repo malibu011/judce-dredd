@@ -1,7 +1,7 @@
 [info]
 new_version=11
 new_version_text='70.00'
-force_update='true'
+force_update=true
 update_info=1. Текст#2. Текст#3. Текст
 delete_json_configuration_files=false
 delete_ini_configuration_files=false
