@@ -4,7 +4,6 @@ new_version_text='10.00'
 force_update=false
 update_info=1. Текст#2. Текст#3. Текст
 delete_json_configuration_files=false
-delete_ini_configuration_files=false
 [preset]
 underground_version=1
 revolution_version=1
