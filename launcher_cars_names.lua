@@ -1,5 +1,5 @@
 ------------------------------------
-EXPORTS.launcher_cars_names_version = 2
+EXPORTS.launcher_cars_names_version = 1
 ------------------------------------
 EXPORTS.launcher_cars_names_list = {
 	{'Cadillac Escalade', 111},
