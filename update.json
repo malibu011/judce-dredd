@@ -1,18 +1,10 @@
 {
   "version": 1.1,
-  "changelog": "- Добавлен компас направлений.\n- Окно интерфейса теперь растягивается.\n- Умное прерывание биндов при уроне.",
+  "changelog": "- Тестовое обновление!\n- Проверяем работу системы загрузки.\n- Mimgui рулит.",
   "files": [
     {
-      "url": "https://raw.githubusercontent.com/malibu011/judce-dredd/main/moonloader/judce-dredd.lua",
-      "path": "judce-dredd.lua"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/malibu011/judce-dredd/main/moonloader/lib/JD_Reborn/binds.lua",
-      "path": "lib\\JD_Reborn\\binds.lua"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/malibu011/judce-dredd/main/moonloader/lib/JD_Reborn/interface.lua",
-      "path": "lib\\JD_Reborn\\interface.lua"
+      "url": "https://raw.githubusercontent.com/malibu011/judce-dredd/main/moonloader/lib/JD_Reborn/updater.lua",
+      "path": "lib\\JD_Reborn\\updater.lua"
     }
   ]
 }
